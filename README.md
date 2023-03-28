@@ -1,4 +1,4 @@
-#Kelvin Weather
+# Kelvin Weather
 
 ## Part of 'Learn JavaScript - Codecademy Projects'
 
